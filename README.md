@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - Make your reality a dream
 - NEOLIENNE...
-- JION US !
+- JOIN US !
 
 <!---
 Volvert/Volvert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
